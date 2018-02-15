@@ -1,0 +1,5 @@
+drHost = "https://dr.myproject.tld"
+drPort = "5000"
+drUser = "secretuser"
+drPass = "secretpass"
+drRegs = ["repo/image-one", "repo/image-two", "repo/image-three"]
